@@ -42,6 +42,8 @@ Operator hanya diperbolehkan melakukan monitoring tanpa hak untuk mengubah data 
 
 ## Project Topology
 
+![Topology](topology/enterprise-server-topology.png)
+
 ```text
 Windows Host
       │
@@ -82,6 +84,8 @@ Ubuntu Server VM
 
 ### SSH Administration
 
+![SSH](screenshots/ssh/ssh-status.png)
+
 * OpenSSH Installation
 * Remote Access Configuration
 * Port Verification
@@ -99,6 +103,8 @@ Ubuntu Server VM
 * HTTP Rule Configuration
 
 ### Nginx Administration
+
+![Nginx](screenshots/nginx/browse-landing-page.png)
 
 * Web Server Deployment
 * Landing Page Configuration
