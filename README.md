@@ -42,7 +42,7 @@ Operator hanya diperbolehkan melakukan monitoring tanpa hak untuk mengubah data 
 
 ## Project Topology
 
-![Topology](topology/enterprise-server-topology.png)
+![Topology](topology/server-topology.png)
 
 ```text
 Windows Host
@@ -104,7 +104,7 @@ Ubuntu Server VM
 
 ### Nginx Administration
 
-![Nginx](screenshots/nginx/browse-landing-page.png)
+![Nginx](screenshots/nginx/landing-page-browser.png)
 
 * Web Server Deployment
 * Landing Page Configuration
